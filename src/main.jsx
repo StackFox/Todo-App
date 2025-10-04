@@ -11,7 +11,7 @@ const router = createBrowserRouter([
     path: '/',
     element: <Layout />,
     children: [
-      { index: true, element: <></> }, // Home route, NewTodo is rendered by Layout
+      { index: true, element: <></> },
       { path: 'features', element: <Features /> },
       { path: 'pricing', element: <Pricing /> }
     ]
