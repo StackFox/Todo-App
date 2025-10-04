@@ -6,7 +6,7 @@ Plan your day, strike off tasks like a boss, and enjoy both light ☀️ and dar
 ---
 
 ## 🚀 Live Demo
-Check out the live version here: [**Live Demo**](https://your-todo-app-link.com)
+Check out the live version here: [**Live Demo**](https://todo-app-amber-zeta-32.vercel.app/)
 
 ---
 
