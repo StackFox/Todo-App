@@ -1,5 +1,5 @@
 import NavBar from './NavBar';
-import NewTodo from './newTodo';
+import NewTodo from './NewTodo';
 import { useState } from 'react';
 
 const Home = () => {

@@ -1,6 +1,6 @@
 import { Outlet, useLocation } from "react-router-dom";
 import NavBar from "./NavBar";
-import NewTodo from "./newTodo";
+import NewTodo from "./NewTodo";
 import { useState } from "react";
 
 function Layout() {
